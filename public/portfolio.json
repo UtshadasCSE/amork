@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "title": "Effortless Authentication",
+      "description": "Simplify user access with seamless and secure authentication solutions tailored for modern applications.",
+      "thumbnail": "./assets/1.png",
+      "date": "2024-12-30",
+      "category": "Authentication"
+    },
+    {
+      "id": 2,
+      "title": "Multi-Factor Security",
+      "description": "Enhance protection with multi-factor authentication, ensuring your users’ data stays safe.",
+      "thumbnail": "./assets/2.png",
+      "date": "2024-12-30",
+      "category": "Authentication"
+    },
+    {
+      "id": 3,
+      "title": "User-Friendly Dashboard",
+      "description": "Manage accounts and authentication settings with an intuitive and easy-to-use dashboard.",
+      "thumbnail": "./assets/3.png",
+      "date": "2024-12-30",
+      "category": "Authentication"
+    },
+    {
+      "id": 4,
+      "title": "Powered by Clerk",
+      "description": "Seamlessly integrate Clerk for efficient user management and authentication workflows.",
+      "thumbnail": "./assets/4.png",
+      "date": "2024-12-30",
+      "category": "Authentication"
+    },
+    {
+      "id": 5,
+      "title": "Fast and Scalable",
+      "description": "Built with Next.js and MongoDB, Amork delivers lightning-fast performance and reliable scalability.",
+      "thumbnail": "./assets/5.png",
+      "date": "2024-12-30",
+      "category": "Technology"
+    },
+    {
+      "id": 6,
+      "title": "Role-Based Access Control",
+      "description": "Easily implement role-based access control for precise permission management.",
+      "thumbnail": "./assets/6.png",
+      "date": "2024-12-30",
+      "category": "Technology"
+    },
+    {
+      "id": 7,
+      "title": "Real-Time Notifications",
+      "description": "Keep users informed with real-time authentication updates and alerts.",
+      "thumbnail": "./assets/7.png",
+      "date": "2024-12-30",
+      "category": "Technology"
+    },
+    {
+      "id": 8,
+      "title": "Customizable UI Components",
+      "description": "Leverage pre-designed UI components to build your authentication interface faster.",
+      "thumbnail": "./assets/8.png",
+      "date": "2024-12-30",
+      "category": "Technology"
+    }
+
+  ]
+  
